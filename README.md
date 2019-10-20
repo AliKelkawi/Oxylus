@@ -20,6 +20,12 @@ Wanting to promote a sense of community through our application, we allow our us
 A user offering these services will be rewarded with small incentives in the form of badges (Pride of Oxylus, Guardian, Savior, Fighter) on their user profile for encouragement depending on how often they have offered these services to others.
 A backend admin panel was also developed to enable authorities to view users registered with the application and those registered as volunteers, in order to better coordinate search and rescue efforts. Authorities can also view the locations of users who have marked themselves as in danger using the Oxylus mobile application.
 
+![Screenshot](Ui-03.jpg)
+![Screenshot](Ui-04.jpg)
+![Screenshot](Ui-05.jpg)
+![Screenshot](Ui-06.jpg)
+![Screenshot](Ui-07.jpg)
+
 ## 2.2	Oxylus Serves Community
 #### 2.2.1 Smart Routing:
 Through a simple web search, we found that traditional routing applications such as Waze and Google Maps have had their shortcomings in directing people away from wildfires in the past. The problem became more apparent as several news articles were published regarding this issue in the past two years.
