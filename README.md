@@ -2,6 +2,8 @@
 
 Oxylus is an application that allows communities at risk of wildfires to serve each other in coordination with authorities; it uses routing APIs to navigate users away from a wildfire and includes a prediction model to predict wildfires before they happen.
 
+![Screenshot](OxylusPoster.jpg)
+
 ## 1.	Motivation:
 In the past year alone, we have had wildfires in 22 countries, over 2 billion acres of land burned around the world, and over 21 thousand people displaced from their homes. These numbers are just the tip of the iceberg when discussing the impact of wildfires. These numbers inspired us to take up this challenge again, especially given the magnifying glass that the media has placed on growing wildfire rates in 2019. We have decided to enhance our previous solution to this challenge in order to tackle multiple aspects of this issue.
 ## 2.	Our Approach:
